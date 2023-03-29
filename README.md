@@ -12,5 +12,9 @@ For installing all the dependancies.
 
 ### `npm start`
 
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+This code is deployed at https://64248a2b0adbd31622a70f7d--radiant-halva-c4e05b.netlify.app/
